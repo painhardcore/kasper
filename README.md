@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/painhardcore/kasper.svg?style=svg)](https://circleci.com/gh/painhardcore/kasper)
 ### build
 
 Use docker to build image
