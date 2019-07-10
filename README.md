@@ -1,3 +1,20 @@
+
+### build
+
+Use docker to build image
+
+```
+docker build . -t "counter" 
+```
+### run
+
+Use docker to run on 8080 port
+
+```
+docker run -p 8080:8080 counter 
+```
+
+
 Вариант №1
 
 Используя только средства стандартной библиотеки, разработать HTTP-сервер. Сервер должен:
